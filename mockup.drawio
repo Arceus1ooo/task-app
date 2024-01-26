@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2024-01-26T23:39:14.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="MlF99Du8EMAp-u2SM3Dx" version="22.1.21" type="device">
+  <diagram name="Page-1" id="JahR-Wlcqe1ZAEtXbYYP">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" width="659.75" height="541" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.calendar" vertex="1" parent="44sTp4LacWlzZ2w4nEKR-6">
+          <mxGeometry width="659.75" height="541" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-3" value="Done" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;strokeColor=#82b366;" vertex="1" parent="44sTp4LacWlzZ2w4nEKR-6">
+          <mxGeometry x="240" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-4" value="In Progress" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="44sTp4LacWlzZ2w4nEKR-6">
+          <mxGeometry x="340" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-5" value="No tasks complete (Red)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="44sTp4LacWlzZ2w4nEKR-6">
+          <mxGeometry x="440" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-7" value="Task 1: Done&lt;br&gt;Task 2: Done&lt;br&gt;Task 3: Done" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-8" value="Task 1: Done&lt;br&gt;Task 2: Incomplete&lt;br&gt;Task 3: Incomplete" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-9" value="Task 1: Incomplete&lt;br&gt;Task 2: Incomplete&lt;br&gt;Task 3: Incomplete" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="580" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="40" width="680" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-13" value="Create new task" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-14" value="Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="137.5" width="290" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-16" value="Frequency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-17" value="&lt;font color=&quot;#ffffff&quot;&gt;Daily | Specific days of week | Specific days of month&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="180" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="390" width="680" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-19" value="Task List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-20" value="Task Name: Task Frequency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="470" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-21" value="Task Name: Task Frequency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="510" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44sTp4LacWlzZ2w4nEKR-22" value="Task Name: Task Frequency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="550" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

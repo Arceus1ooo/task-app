@@ -8,10 +8,12 @@ import androidx.recyclerview.widget.RecyclerView
 class CalendarAdapter: RecyclerView.Adapter<CalendarViewHolder> {
     private val daysOfMonth: ArrayList<String>
     private val onItemListener: OnItemListener
+
     constructor(daysOfMonth: ArrayList<String>, onItemListener: OnItemListener) {
         this.daysOfMonth = daysOfMonth
         this.onItemListener = onItemListener
     }
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CalendarViewHolder {
         val inflater: LayoutInflater = LayoutInflater.from(parent.context)
         val view: View = inflater.inflate(R.layout.calendar_cell, parent, false)
