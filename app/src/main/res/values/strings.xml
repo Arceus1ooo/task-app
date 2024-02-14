@@ -2,4 +2,12 @@
     <string name="app_name">TaskApp</string>
     <string name="leftArrow">&lt;-</string>
     <string name="rightArrow">-&gt;</string>
+    <string name="sunday">SUN</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+    <string name="defaultDateText">Jan 2024</string>
 </resources>

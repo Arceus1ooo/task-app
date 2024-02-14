@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity(), CalendarAdapter.OnItemListener {
         println("dayText " + dayText)
         if (dayText != "") {
             val message: String = "Selected Date " + dayText + " " + monthYearFromDate(selectedDate)
-            Toast.makeText(this, message, Toast.LENGTH_LONG).show()
+            Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
         }
     }
 }
